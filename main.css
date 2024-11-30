@@ -1,0 +1,37 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color:grey;
+    }
+    .container {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    }
+    .header img {
+    width: 90px;
+    height: 200px;
+    border-radius: 0%;
+    }
+    h1 {
+    color: black;
+    }
+    h2 {
+    color: black;
+    background-color: aqua;
+    }
+    p {
+    color: black;
+    }
+    .section {
+    margin-top: 20px;
+    }
